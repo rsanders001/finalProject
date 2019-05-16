@@ -1,0 +1,15 @@
+E:\School\WCTC\.Net Database Programming\BlogsConsole\BlogsConsole-Homework\BlogsConsole\BlogsConsole\bin\Debug\NLog.config
+E:\School\WCTC\.Net Database Programming\BlogsConsole\BlogsConsole-Homework\BlogsConsole\BlogsConsole\bin\Debug\BlogsConsole.exe.config
+E:\School\WCTC\.Net Database Programming\BlogsConsole\BlogsConsole-Homework\BlogsConsole\BlogsConsole\bin\Debug\BlogsConsole.exe
+E:\School\WCTC\.Net Database Programming\BlogsConsole\BlogsConsole-Homework\BlogsConsole\BlogsConsole\bin\Debug\BlogsConsole.pdb
+E:\School\WCTC\.Net Database Programming\BlogsConsole\BlogsConsole-Homework\BlogsConsole\BlogsConsole\bin\Debug\EntityFramework.dll
+E:\School\WCTC\.Net Database Programming\BlogsConsole\BlogsConsole-Homework\BlogsConsole\BlogsConsole\bin\Debug\EntityFramework.SqlServer.dll
+E:\School\WCTC\.Net Database Programming\BlogsConsole\BlogsConsole-Homework\BlogsConsole\BlogsConsole\bin\Debug\NLog.dll
+E:\School\WCTC\.Net Database Programming\BlogsConsole\BlogsConsole-Homework\BlogsConsole\BlogsConsole\bin\Debug\EntityFramework.xml
+E:\School\WCTC\.Net Database Programming\BlogsConsole\BlogsConsole-Homework\BlogsConsole\BlogsConsole\bin\Debug\EntityFramework.SqlServer.xml
+E:\School\WCTC\.Net Database Programming\BlogsConsole\BlogsConsole-Homework\BlogsConsole\BlogsConsole\bin\Debug\NLog.xml
+E:\School\WCTC\.Net Database Programming\BlogsConsole\BlogsConsole-Homework\BlogsConsole\BlogsConsole\obj\Debug\BlogsConsole.csprojAssemblyReference.cache
+E:\School\WCTC\.Net Database Programming\BlogsConsole\BlogsConsole-Homework\BlogsConsole\BlogsConsole\obj\Debug\BlogsConsole.csproj.CoreCompileInputs.cache
+E:\School\WCTC\.Net Database Programming\BlogsConsole\BlogsConsole-Homework\BlogsConsole\BlogsConsole\obj\Debug\BlogsConsole.csproj.CopyComplete
+E:\School\WCTC\.Net Database Programming\BlogsConsole\BlogsConsole-Homework\BlogsConsole\BlogsConsole\obj\Debug\BlogsConsole.exe
+E:\School\WCTC\.Net Database Programming\BlogsConsole\BlogsConsole-Homework\BlogsConsole\BlogsConsole\obj\Debug\BlogsConsole.pdb
